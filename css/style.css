@@ -1,0 +1,106 @@
+.btn{
+height: 45px;
+width: 130px;
+background-color: blue;
+color: #fff;
+margin-top: 20px;
+border-radius: 5px;
+margin-left: 40px;
+text-transform: uppercase;
+
+
+}
+
+input{
+height: 45px;
+width: 250px;
+margin-bottom:10px;
+border-radius: 5px;
+padding-left: 10px;
+
+}
+
+.center{
+margin-top: 10px;
+margin-left: 500px;
+margin-right: 500px;
+
+}
+
+.table{
+border: 1px solid black;
+border-radius: 5px;
+text-align: center;
+margin-top: 20px;
+margin-left: 350px;
+margin-right: 350px;
+width: 600px;
+
+
+
+}
+.btn1{
+margin-left: 550px;
+margin-right: 550px;
+height: 60px;
+
+}
+.btn2{
+
+width: 200px;
+color: #fff;
+
+
+}
+
+.button button a{
+	color: #fff;
+
+
+}
+.button{
+
+	margin-left: 550px;
+margin-right: 550px;
+}
+.btn3{
+height: 45px;
+width: 130px;
+background-color: blue;
+color: #fff;
+margin-top: 20px;
+border-radius: 5px;
+
+
+}
+
+span{
+margin-left: 20px;
+font-weight: 700;
+
+}
+
+span h1{
+
+	margin-left: 50px;
+}
+h5{
+
+	margin-left: 20px;
+	font-size: 16px;
+
+}
+.btn5{
+	height: 45px;
+width: 130px;
+background-color: blue;
+color: #fff;
+margin-top: 5px;
+border-radius: 5px;
+}
+.middle{
+
+	margin-left: 20px;
+}
+
+
